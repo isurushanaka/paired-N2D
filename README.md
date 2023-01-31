@@ -1,5 +1,5 @@
 ## Note
-We are unable to share our training details as our paper is still being reviewed. Once our paper is published, we will publish all of our codes. However, we have shared our dataset and Pytorch implementation of the generator and the discriminator. If anyone is interested, we will share the weights for the generator and the discriminator. 
+We are unable to share our training details as our paper is still being reviewed. Once our paper is published, we will publish all of our codes. However, we have shared our dataset. If anyone is interested, we will share the weights for the generator and the discriminator. 
 
 ## Dataset
 Training dataset used in this experiment is a set of pixel-to-pixel paired night-day images. 
