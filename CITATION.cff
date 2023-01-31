@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 authors:
-  - family-names: H.K.I.S.
-    given-names: Lakmal
+  - family-names: Lakmal
+    given-names: H.K.I.S.
 
 title: "Synthesizing Photo-Realistic Day-Time Images in Night-to-Day Image Translation with Supervised GANs"
 version: 2.0.1
